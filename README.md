@@ -20,7 +20,7 @@
             alt="css3" width="30" height="30" /> </a> &nbsp; <a href="https://www.docker.com/" target="_blank"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
             alt="docker" width="30" height="30" /> </a> &nbsp; <a href="https://expressjs.com" target="_blank"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg?color=%239400D3"
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
             alt="express" width="30" height="30" /> </a> &nbsp; <a href="https://git-scm.com/" target="_blank"> <img
             src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30" /> </a> &nbsp; <a
         href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg"
