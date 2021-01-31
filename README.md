@@ -13,43 +13,43 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://angular.io" target="_blank"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg"
-            alt="angularjs" width="30" height="30" /> </a> <a href="https://getbootstrap.com" target="_blank"> <img
+            alt="angularjs" width="30" height="30" /> </a> &nbsp; <a href="https://getbootstrap.com" target="_blank"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-            alt="bootstrap" width="30" height="30" /> </a> <a href="https://www.w3schools.com/css/" target="_blank">
+            alt="bootstrap" width="30" height="30" /> </a> &nbsp; <a href="https://www.w3schools.com/css/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-            alt="css3" width="30" height="30" /> </a> <a href="https://www.docker.com/" target="_blank"> <img
+            alt="css3" width="30" height="30" /> </a> &nbsp; <a href="https://www.docker.com/" target="_blank"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
-            alt="docker" width="30" height="30" /> </a> <a href="https://expressjs.com" target="_blank"> <img
+            alt="docker" width="30" height="30" /> </a> &nbsp; <a href="https://expressjs.com" target="_blank"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
-            alt="express" width="30" height="30" /> </a> <a href="https://git-scm.com/" target="_blank"> <img
-            src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30" /> </a> <a
+            alt="express" width="30" height="30" /> </a> &nbsp; <a href="https://git-scm.com/" target="_blank"> <img
+            src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30" /> </a> &nbsp; <a
         href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg"
-            alt="heroku" width="30" height="30" /> </a> <a href="https://www.w3.org/html/" target="_blank"> <img
+            alt="heroku" width="30" height="30" /> </a> &nbsp; <a href="https://www.w3.org/html/" target="_blank"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-            alt="html5" width="30" height="30" /> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
+            alt="html5" width="30" height="30" /> </a> &nbsp; <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
         target="_blank"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-            alt="javascript" width="30" height="30" /> </a> <a href="https://jestjs.io" target="_blank"> <img
-            src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="30" height="30" /> </a>
+            alt="javascript" width="30" height="30" /> </a> &nbsp; <a href="https://jestjs.io" target="_blank"> <img
+            src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="30" height="30" /> </a> &nbsp;
     <a href="https://www.mongodb.com/" target="_blank"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
-            alt="mongodb" width="30" height="30" /> </a> <a href="https://www.mysql.com/" target="_blank"> <img
+            alt="mongodb" width="30" height="30" /> </a> &nbsp; <a href="https://www.mysql.com/" target="_blank"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-            alt="mysql" width="30" height="30" /> </a> <a href="https://nodejs.org" target="_blank"> <img
+            alt="mysql" width="30" height="30" /> </a> &nbsp; <a href="https://nodejs.org" target="_blank"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-            alt="nodejs" width="30" height="30" /> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img
+            alt="nodejs" width="30" height="30" /> </a> &nbsp; <a href="https://www.photoshop.com/en" target="_blank"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"
-            alt="photoshop" width="30" height="30" /> </a> <a href="https://www.postgresql.org" target="_blank"> <img
+            alt="photoshop" width="30" height="30" /> </a> &nbsp; <a href="https://www.postgresql.org" target="_blank"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
-            alt="postgresql" width="30" height="30" /> </a> <a href="https://postman.com" target="_blank"> <img
+            alt="postgresql" width="30" height="30" /> </a> &nbsp; <a href="https://postman.com" target="_blank"> <img
             src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="30"
-            height="30" /> </a> <a href="https://reactjs.org/" target="_blank"> <img
+            height="30" /> </a> &nbsp; <a href="https://reactjs.org/" target="_blank"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-            alt="react" width="30" height="30" /> </a> <a href="https://redis.io" target="_blank"> <img
+            alt="react" width="30" height="30" /> </a> &nbsp; <a href="https://redis.io" target="_blank"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg"
-            alt="redis" width="30" height="30" /> </a> <a href="https://www.typescriptlang.org/" target="_blank"> <img
+            alt="redis" width="30" height="30" /> </a> &nbsp; <a href="https://www.typescriptlang.org/" target="_blank"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-            alt="typescript" width="30" height="30" /> </a> </p></br>
+            alt="typescript" width="30" height="30" /> </a> &nbsp; </p></br>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=martthus&show_icons=true&locale=en&layout=compact" alt="martthus" /></p></br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=martthus&show_icons=true&locale=en" alt="martthus" /></p></br>
