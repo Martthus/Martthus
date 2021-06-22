@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Matheus</h1>
 <h3 align="center">Back in the Saddle Again</h3>
 
-- 🌱 I’m currently learning **Node, JavaScript, Python**
+- 🌱 I’m currently learning **React Native, JavaScript, Python**
 
 - 💬 Ask me about **React, Arduino, League of Legends, Classic Music**
 
