@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Matheus</h1>
 <h3 align="center">Back in the Saddle Again</h3>
 
-- 🌱 I’m currently learning **React Native, JavaScript, Python**
+- 🌱 I’m currently learning **React Native, Flutter, Python**
 
-- 💬 Ask me about **React, Arduino, League of Legends, Classic Music**
+- 💬 Ask me about **React, Arduino, JavaScript, TypeScript, SQL, NoSQL League of Legends, Classic Music**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
