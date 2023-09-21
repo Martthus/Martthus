@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React Native, Flutter, Python**
 
-- 💬 Ask me about **React, Arduino, JavaScript, TypeScript, SQL, NoSQL League of Legends, Classic Music**
+- 💬 Ask me about **React, Arduino, JavaScript, TypeScript, SQL, NoSQL.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
