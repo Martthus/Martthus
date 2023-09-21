@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/matheus-m-candido/" target="blank"><img align="center" src="https://api.iconify.design/ri:linkedin-box-fill.svg?color=red" alt="https://www.linkedin.com/in/matheus-m-candido/" height="40" width="50" /></a>
+<a href="https://www.linkedin.com/in/matheus-m-candido/" target="_blank"><img align="center" src="https://api.iconify.design/ri:linkedin-box-fill.svg?color=red" alt="https://www.linkedin.com/in/matheus-m-candido/" height="40" width="50" /></a>
             <a href="mailto:martins356qn@gmail.com?subject=Olá" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="30" width="60" /></a>
 </p>
 
