@@ -53,6 +53,5 @@
             alt="typescript" width="30" height="30" /> </a> &nbsp; </p></br>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=martthus&show_icons=true&locale=en&layout=compact" alt="martthus" /></p></br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=martthus&show_icons=true&locale=en" alt="martthus" /></p></br>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=martthus&theme=dark" alt="martthus" /></p>
